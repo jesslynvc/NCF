@@ -2,7 +2,7 @@
 - Compare AirTable's NCF profile
 - Figure out what we need to do
 - Improve Kintone's NCF Profile
-ß
+  
 https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
 
 ### Airtable
