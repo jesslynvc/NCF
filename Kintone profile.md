@@ -9,7 +9,8 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
 ![images/airtable_profile](images/airtable_profile.png)
 * Have perk for PRO members
 * Does not have producthunt page
-* Possible integration tools: **24** can be found in NCF
+* Have twitter page
+* Possible [integration](https://twitter.com/airtable) tools: **24** can be found in NCF
 * Building with Airtable have 249+ people. 
 * Does not have descriptions
 * Have 120 no-code startups
@@ -18,7 +19,8 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
 
 ### Kintone
 * Does not have perk for PRO members
-* Have producthunt page > but no review
+* Have [producthunt](https://www.producthunt.com/products/kintone) page
+* Have [twitter](https://twitter.com/kintone) page
 * Possible integration tools: **7** can be found in NCF
 * Building with Kintone: only our icon
 * Have description with GIF image and video
@@ -34,6 +36,7 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
   * Your data + Kintone = 💪
   * Kintone for any solution.
   * Manage your team with a no-code solution???
+  * in producthunt -> Build custom business applications without code
 
 * Increase "Building with people" , "no-code startups", and "courses"  
   These are the things that appear in the profile when someone build startups or create courses using kintone.  
