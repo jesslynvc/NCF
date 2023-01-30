@@ -9,8 +9,8 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
 ![images/airtable_profile](images/airtable_profile.png)
 * Have perk for PRO members
 * Does not have producthunt page
-* Have twitter page
-* Possible [integration](https://twitter.com/airtable) tools: **24** can be found in NCF
+* Have [twitter](https://twitter.com/airtable) page
+* Possible integration tools: **24** can be found in NCF
 * Building with Airtable have 249+ people. 
 * Does not have descriptions
 * Have 120 no-code startups
