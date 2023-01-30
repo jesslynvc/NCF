@@ -57,3 +57,4 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
   - integration with other apps
   - "How to" videos
   - add "without code" or "with no developer" on the title
+  - Do we use US kintone's [videos](https://www.youtube.com/@kintoneglobal/videos) or KDP's [videos](https://www.youtube.com/@KintoneDeveloperProgram/videos)ß
