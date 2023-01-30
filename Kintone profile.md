@@ -2,7 +2,7 @@
 - Compare AirTable's NCF profile
 - Figure out what we need to do
 - Improve Kintone's NCF Profile
-
+ß
 https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
 
 ### Airtable
@@ -23,7 +23,7 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
 * Have [twitter](https://twitter.com/kintone) page
 * Possible integration tools: **7** can be found in NCF
 * Building with Kintone: only our icon
-* Have description with GIF image and video
+* Have description with images and video
 * Does not have no-code startups
 * Does not have courses
 * Have Kintone overview demo video in the description but no tutorial videos
@@ -38,11 +38,17 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
   * Manage your team with a no-code solution???
   * in producthunt -> Build custom business applications without code
 
+* Add perks  
+  If possible, to push NCF people for an easier start
+
 * Increase "Building with people" , "no-code startups", and "courses"  
   These are the things that appear in the profile when someone build startups or create courses using kintone.  
   Especially "Building with people" is on the top right of the profile, it helps new people think many people are using this tool.   
   What is startups? Products or startups that are developed using no-code platforms.  
   Do we have any product we can share or partners in the US?
+
+* Add more integrations  
+  We should check if Kintone works with other tools (Tools that developers/no-code users in US often use). Currently we have zappier, make, google drive, slack, etc tools that are very well known.
 
 * Add video tutorials
   If we have beginner tutorials / starter videos of Kintone, we should add them
