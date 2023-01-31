@@ -18,6 +18,7 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
 * Have many tutorial videos
 
 ### Kintone
+![images/kintone_profile_20230131.png](images/kintone_profile_20230131.png)
 * Does not have perk for PRO members
 * Have [producthunt](https://www.producthunt.com/products/kintone) page
 * Have [twitter](https://twitter.com/kintone) page
@@ -50,7 +51,7 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
 * Add more integrations  
   We should check if Kintone works with other tools (Tools that developers/no-code users in US often use). Currently we have zappier, make, google drive, slack, etc tools that are very well known.
 
-* Add video tutorials
+* Add video tutorials  ß
   If we have beginner tutorials / starter videos of Kintone, we should add them
   - how to use kintone
   - easy example of Kintone on a system
