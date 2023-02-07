@@ -2,7 +2,7 @@
 Kintone is a customizable workplace platform that organizes your team’s data, workflows, and conversations in one place.
 
 * How does Kintone work?*  
-In Kintone, you can build your own custom business applications, with absolutely no code required. The drag-and-drop editor is extremely user-friendly and simple, allowing you to make complex workflows and applcations.
+In Kintone, you can build your own custom business applications, with absolutely no code required. The drag-and-drop editor is extremely user-friendly and simple, allowing you to make complex workflows and applications.
 
 * What types of products and businesses use Kintone?*  
 Kintone is most often used by small to medium businesses with 50-200 employees. Kintone is best used for business processes such as workflow management, data management, and CRM and sales management.
