@@ -7,10 +7,10 @@ In Kintone, you can build your own custom business applications, with absolutely
 * What types of products and businesses use Kintone?*  
 Kintone is most often used by small to medium businesses with 50-200 employees. Kintone is best used for business processes such as workflow management, data management, and CRM and sales management.
 
-* Can users take payments using Kintone?*
+* Can users take payments using Kintone?*  
 No
 
-* Does Kintone offer templates?*
+* Does Kintone offer templates?*  
 Yes, kintone provides over xxx templates for a wide variety of use-case. Visit our app-templates to learn more:
 https://www.kintone.com/en-us/features/app-templates/
 
@@ -20,5 +20,5 @@ We offer free Kintone Developer licenses to developers interested in custom appl
 * Does Kintone offer custom domains?*  
 Yes, e.g. mydomain.kintone.com
 
-* How to get started with Kintone?*
-  https://kintone.dev/en/developer-license-registration-form/
+* How to get started with Kintone?*  
+Sign up here for a free account https://kintone.dev/en/developer-license-registration-form/
