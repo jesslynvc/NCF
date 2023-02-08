@@ -58,4 +58,11 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
   - integration with other apps
   - "How to" videos
   - add "without code" or "with no developer" on the title
+  - Testimonials
   - Do we use US kintone's [videos](https://www.youtube.com/@kintoneglobal/videos) or KDP's [videos](https://www.youtube.com/@KintoneDeveloperProgram/videos)
+  - Videos to add:
+    - I wanted to add [Sign up for Kintone Developer Program & Developer License](https://www.youtube.com/watch?v=Gzz8SbTuoFg) but it's using the old website
+    - [Kintone Product Introduction Video](https://www.youtube.com/watch?v=2Q5KTZuuqmo)
+    - [What Will You Build on Kintone](https://www.youtube.com/watch?v=8SAy4L1QXz8)
+    - [How Kintone helped Congo Brands scale their business](https://www.youtube.com/watch?v=xGPsVmxRMb8)
+    - 
