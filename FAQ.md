@@ -1,24 +1,32 @@
-* What is Kintone and what can it be used for?*  
-Kintone is a customizable workplace platform that organizes your team’s data, workflows, and conversations in one place.
+# Kintone NCF FAQ
 
-* How does Kintone work?*  
-In Kintone, you can build your own custom business applications, with absolutely no code required. The drag-and-drop editor is extremely user-friendly and simple, allowing you to make complex workflows and applications.
+## What is Kintone and what can it be used for?
+Kintone is a customizable workplace platform that organizes your team's data, workflows, and conversations in one place.
 
-* What types of products and businesses use Kintone?*  
-Kintone is most often used by small to medium businesses with 50-200 employees. Kintone is best used for business processes such as workflow management, data management, and CRM and sales management.
+## How does Kintone work?
+In Kintone, you can build custom business applications with no coding required. The user-friendly drag-and-drop editor makes it easy to build complex workflows and applications.
 
-* Can users take payments using Kintone?*  
-No
+## What types of products and businesses use Kintone?
+Kintone is trusted by 25,000+ companies worldwide. Everyone from Volvo to UC San Diego uses Kintone to optimize their workflow.
 
-* Does Kintone offer templates?*  
-Yes, kintone provides over xxx templates for a wide variety of use-case. Visit our app-templates to learn more:
+Kintone is popular among small to medium businesses but is also used by Fortune 500 firms with our enterprise-level support.
+
+## Can users take payments using Kintone?
+Although not a core feature, Kintone can be integrated with a payment gateway or point-of-sale system to manage financial information within Kintone.
+
+## Does Kintone offer templates?
+Yes, Kintone provides numerous templates for a wide variety of use-case.
+
+For more information, refer to the App Template Library site:  
 https://www.kintone.com/en-us/features/app-templates/
 
-* What's included?*  
+## What's included?
 We offer free Kintone Developer licenses to developers interested in custom application development on the Kintone platform.
 
-* Does Kintone offer custom domains?*  
-Yes, e.g. mydomain.kintone.com
+## Does Kintone offer custom domains?
+Yes, Kintone offers custom subdomains for all accounts.
+Example: example.kintone.com
 
-* How to get started with Kintone?*  
-Sign up here for a free account https://kintone.dev/en/developer-license-registration-form/
+## How to get started with Kintone?
+Sign up for a free developer license at:  
+https://kintone.dev/en/developer-license-registration-form/
