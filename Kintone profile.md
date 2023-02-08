@@ -51,7 +51,7 @@ https://bozuman.cybozu.com/k/#/space/3815/thread/74094/4018126
 * Add more integrations  
   We should check if Kintone works with other tools (Tools that developers/no-code users in US often use). Currently we have zappier, make, google drive, slack, etc tools that are very well known.
 
-* Add video tutorials  ß
+* Add video tutorials  
   If we have beginner tutorials / starter videos of Kintone, we should add them
   - how to use kintone
   - easy example of Kintone on a system
